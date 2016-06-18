@@ -1,0 +1,32 @@
+header{
+height: 400px;
+}
+
+#container {
+display: block;
+background-image: url("file:///Users/hunterhawes/projects/HOU/imgs/hou.png");
+background-size: cover;
+height: 400px;
+width: auto; 
+}
+
+#imgage {
+  height: 400px;
+}
+body{
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.iron-yard {
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 350px;
+    left: 70px;
+}
